@@ -19,6 +19,6 @@ eg: python html_to_xlsx.py results
 
 
 
-![](https://gitee.com/JIFENGJIANHAO1/images/raw/master/1.png)
+![](1.png)
 
-![](https://gitee.com/JIFENGJIANHAO1/images/raw/master/2.png)
+![](2.png)
